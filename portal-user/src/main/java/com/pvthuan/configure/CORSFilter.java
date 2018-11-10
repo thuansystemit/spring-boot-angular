@@ -1,4 +1,4 @@
-package com.pvthuan.userportal;
+package com.pvthuan.configure;
 
 import java.io.IOException;
 import javax.servlet.Filter;

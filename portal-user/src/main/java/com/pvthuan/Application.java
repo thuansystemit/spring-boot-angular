@@ -1,12 +1,12 @@
-package com.pvthuan.userportal;
+package com.pvthuan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserPortalApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserPortalApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }

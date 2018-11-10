@@ -1,5 +1,7 @@
-package com.pvthuan.userportal;
+package com.pvthuan.service;
 
+import com.pvthuan.model.User;
+import com.pvthuan.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

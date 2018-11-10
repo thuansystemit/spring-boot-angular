@@ -1,5 +1,6 @@
-package com.pvthuan.userportal;
+package com.pvthuan.service;
 
+import com.pvthuan.model.User;
 import java.util.List;
 
 public interface UserService {

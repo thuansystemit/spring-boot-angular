@@ -1,4 +1,5 @@
-package com.pvthuan.userportal;
+package com.pvthuan.repository;
+import com.pvthuan.model.User;
 import org.springframework.data.repository.Repository;
 
 import java.util.List;

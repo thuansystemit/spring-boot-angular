@@ -1,6 +1,8 @@
-package com.pvthuan.userportal;
+package com.pvthuan.controller;
 
 
+import com.pvthuan.model.User;
+import com.pvthuan.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;

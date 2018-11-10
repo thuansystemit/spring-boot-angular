@@ -1,4 +1,4 @@
-package com.pvthuan.userportal;
+package com.pvthuan.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
